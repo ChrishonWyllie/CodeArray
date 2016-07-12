@@ -3,4 +3,4 @@ A website that allows users to connect with others that have the desired skill s
 
 Still under construction... please excuse any bugs
 
-176.32.230.52/codearray.com/
+http://176.32.230.52/codearray.com/
